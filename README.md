@@ -1,0 +1,2 @@
+# ZedSkinByMap
+tmp
