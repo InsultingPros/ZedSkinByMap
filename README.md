@@ -1,6 +1,6 @@
 # Zed Skin By Map
 
-![GitHub all releases](https://img.shields.io/github/downloads/InsultingPros/ZedSkinByMap/total)
+[![GitHub all releases](https://img.shields.io/github/downloads/InsultingPros/ZedSkinByMap/total)](https://github.com/InsultingPros/ZedSkinByMap/releases)
 
 Set zed skins for each map! Supports both vanilla game (KF) and objective mode (KFO).
 
